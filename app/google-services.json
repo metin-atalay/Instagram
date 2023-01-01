@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "408293163590",
+    "project_id": "instagramclone-ff178",
+    "storage_bucket": "instagramclone-ff178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408293163590:android:3eb42ec797dcd032970047",
+        "android_client_info": {
+          "package_name": "com.metinatalay.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408293163590-e0bjbh2gin0782e7s7br47tbufhstvf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8nDV_CAHeF5vCx-fn5v3dFyNQjfi7PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408293163590-e0bjbh2gin0782e7s7br47tbufhstvf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408293163590:android:2ef125d8750dab4d970047",
+        "android_client_info": {
+          "package_name": "com.metinatalay.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408293163590-e0bjbh2gin0782e7s7br47tbufhstvf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8nDV_CAHeF5vCx-fn5v3dFyNQjfi7PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408293163590-e0bjbh2gin0782e7s7br47tbufhstvf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
